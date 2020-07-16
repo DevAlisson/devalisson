@@ -1,16 +1,15 @@
-### Hi there 👋
+# Alisson "DevAlisson"
 
-<!--
-**DevAlisson/devalisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/DevAlisson)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/_AllissonD_)
+[![DevAlisson Badge](https://img.shields.io/twitter/url?color=grey&label=DevAlisson&logo=devalisson.tk&logoColor=green&style=flat-square&url=https%3A%2F%2Fdevalisson.tk)](https://devalisson.tk)
 
-Here are some ideas to get you started:
+## 👋 - Olá!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Alisson Developer Full Stack.
+
+- :white_check_mark: Javascrit / NodeJS / Java / Python.
+- :white_check_mark: Atualmente usando o framework **NextJS** para frontend.
+- :green_book: Estudando TypeScript, ReactApp / React Native.
+
+também MOD do [@Kaeltec](https://github.com/Kaeltec)
