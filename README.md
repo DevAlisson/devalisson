@@ -12,4 +12,4 @@ Meu nome é Alisson Developer Full Stack.
 - :white_check_mark: Atualmente usando o framework **NextJS** para frontend.
 - :green_book: Estudando TypeScript, ReactApp / React Native.
 
-também Equipe de Staff da[@Kaeltec](https://github.com/Kaeltec)
+também Equipe de Staff da [@Kaeltec](https://github.com/Kaeltec)
